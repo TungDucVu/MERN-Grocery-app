@@ -1,4 +1,4 @@
-## 🚀 Grocery Delivery Website - Full Stack Project
+## 🚀 Grocery Delivery Website - Full Stack Project SOURCE CODE for Client and Server
 
 Build a fully functional grocery delivery website using the **MERN** stack (MongoDB, Express, React, Node.js) along with **Stripe** for payments.
 
